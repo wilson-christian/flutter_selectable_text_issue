@@ -78,7 +78,6 @@ class _MyHomePageState extends State<MyHomePage> {
               // scrollPhysics: NeverScrollableScrollPhysics(),
               toolbarOptions: ToolbarOptions(
                   copy: false, cut: false, selectAll: false, paste: false),
-              //focusNode: selectFocus,
             ),
           ),
         ),
